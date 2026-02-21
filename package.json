@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/analytics",
+  "name": "@pleme-io/analytics",
   "version": "1.0.0",
   "description": "Analytics service library for Nexus products",
   "type": "module",
