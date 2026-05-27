@@ -1372,11 +1372,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1779857977,
-        "narHash": "sha256-GJPXR0lisqzoi7NGpt/Q/1FUAAGNJ0paIN2CeC0hDk8=",
+        "lastModified": 1779862923,
+        "narHash": "sha256-1qheIGXGRZSQI8VM8EM8h2i6FjWKSS9oqVuMad5TjTo=",
         "owner": "pleme-io",
         "repo": "substrate",
-        "rev": "fd95bc06d8fb3ed23863046b11d47cb564e90e45",
+        "rev": "d4548c88368ca542efede6885f2cc22125b30c0f",
         "type": "github"
       },
       "original": {
